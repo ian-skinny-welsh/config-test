@@ -1,0 +1,2 @@
+#pattern  filter=crypt diff=crypt merge=crypt
+**/*.properties filter=crypt diff=crypt merge=crypt
